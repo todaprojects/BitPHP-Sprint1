@@ -23,7 +23,7 @@
 
 ### 2) After successful authorization, a directory of file 'index.php' is being opened:
 
-    ![image](https://user-images.githubusercontent.com/70706753/96450637-24770c80-121f-11eb-9ebc-6f1c46453e57.PNG)
+   ![image](https://user-images.githubusercontent.com/70706753/96450637-24770c80-121f-11eb-9ebc-6f1c46453e57.PNG)
 
   - all 'Directories' are listed next to the picture ![image](https://user-images.githubusercontent.com/70706753/96459112-65c0e980-122a-11eb-849d-5eb1903bde10.PNG)
   - all 'Files' are listed next to the picture ![image](https://user-images.githubusercontent.com/70706753/96459362-b8020a80-122a-11eb-9105-31f952f0f692.PNG)
@@ -31,7 +31,7 @@
 
 ### 3) Each 'Directory' and 'File' can be opened by clicking on the title:
 
-    ![image](https://user-images.githubusercontent.com/70706753/96460789-4925b100-122c-11eb-932e-c55f9869d1ae.png)
+   ![image](https://user-images.githubusercontent.com/70706753/96460789-4925b100-122c-11eb-932e-c55f9869d1ae.png)
 
 
 ### 4) New file can be uploaded by making these two actions: 
