@@ -18,7 +18,7 @@
   - username "demo"
   - password "demo"
   
-    ![image](https://user-images.githubusercontent.com/70706753/96467432-95282400-1233-11eb-9772-a74124bb4718.png)
+    ![image](https://user-images.githubusercontent.com/70706753/96470837-5dbb7680-1237-11eb-8fd1-8f3a6d4566da.png)
 
 
 ### 2) After successful authorization, a directory of file 'index.php' is being opened:
