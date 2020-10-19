@@ -81,7 +81,7 @@
   
     ![image](https://user-images.githubusercontent.com/70706753/96465762-ff3fc980-1231-11eb-8dcd-06b958f36a86.png)
   
-  - if directory was successfuly created
+  - if directory successfully created
   
     ![image](https://user-images.githubusercontent.com/70706753/96466076-6493ba80-1232-11eb-8525-7d16a44a00c8.png)
   
