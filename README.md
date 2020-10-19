@@ -44,7 +44,7 @@
   
     ![image](https://user-images.githubusercontent.com/70706753/96467927-26979600-1234-11eb-83e6-5eda826f9242.png)
   
-  - if successfull upload 
+  - if successfully uploaded 
   
     ![image](https://user-images.githubusercontent.com/70706753/96463886-dfa7a180-122f-11eb-9e47-4372926c0181.png)
 
