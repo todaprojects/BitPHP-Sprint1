@@ -1,0 +1,284 @@
+main {
+  height: 90vh;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+main form {
+  padding: 32px;
+  -webkit-box-shadow: 0px 0px 64px -22px rgba(0, 0, 0, 0.75);
+  box-shadow: 0px 0px 64px -22px rgba(0, 0, 0, 0.75);
+}
+
+main input {
+  width: 200px;
+  margin-bottom: 16px;
+}
+
+main button {
+  width: 206px;
+  height: 30px;
+  background-color: lightgreen;
+}
+
+.wrong-name,
+.log-out {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  color: orangered;
+  margin-bottom: 16px;
+}
+
+.log-out {
+  color: green;
+}
+
+.main {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  margin: 0 4px;
+}
+
+.main form {
+  display: inline;
+}
+
+.main button {
+  background: none;
+  border: none;
+  color: blue;
+  text-decoration: underline;
+  cursor: pointer;
+  font-size: 1em;
+  font-family: serif;
+}
+
+.main button:focus {
+  outline: none;
+}
+
+.main button:active {
+  color: red;
+}
+
+.reader {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  padding: 10px;
+  background-color: white;
+  width: calc(90% - 16 - 16);
+  position: relative;
+  margin-top: 16px;
+  -webkit-box-shadow: 0px 0px 64px -22px rgba(0, 0, 0, 0.75);
+  box-shadow: 0px 0px 64px -22px rgba(0, 0, 0, 0.75);
+}
+
+.reader form {
+  width: -webkit-min-content;
+  width: -moz-min-content;
+  width: min-content;
+  margin-top: 6px;
+  -ms-flex-item-align: center;
+      -ms-grid-row-align: center;
+      align-self: center;
+}
+
+.reader textarea {
+  min-width: 80vw;
+  max-width: 80vw;
+}
+
+.flex {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-flow: row;
+          flex-flow: row;
+  width: 100%;
+}
+
+.file {
+  margin: 4px 0 0 4px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.file > div {
+  font-size: smaller;
+}
+
+.read-only {
+  color: red;
+  text-align: center;
+  font-weight: bolder;
+  font-size: smaller;
+  width: 240px;
+  margin-left: 10px;
+  margin-bottom: 4px;
+}
+
+.button {
+  margin-top: 16px;
+}
+
+.button button {
+  width: 82px;
+}
+
+.button input {
+  width: 260px;
+}
+
+input#dir-input {
+  width: 254px;
+}
+
+.success,
+.info,
+.warning {
+  margin-top: 16px;
+  padding: 4px;
+  font-size: smaller;
+}
+
+.success {
+  background-color: lightgreen;
+}
+
+.info {
+  background-color: lightcyan;
+}
+
+.warning {
+  background-color: lightpink;
+}
+
+.inline {
+  display: inline;
+}
+
+.link-button,
+.delete-button,
+.download-button {
+  margin: 0 4px;
+  padding-inline: 0;
+  background: none;
+  border: none;
+  color: blue;
+  text-decoration: underline;
+  cursor: pointer;
+  font-size: 1em;
+  font-family: serif;
+}
+
+.delete-button {
+  margin: 0;
+}
+
+.delete-button,
+.download-button {
+  color: black;
+  text-decoration: none;
+}
+
+.delete-button:hover,
+.download-button:hover {
+  text-decoration: underline;
+}
+
+.delete-button:hover {
+  color: red;
+}
+
+.download-button:hover {
+  color: green;
+}
+
+.link-button:focus,
+.delete-button:focus,
+.download-button:focus {
+  outline: none;
+}
+
+.link-button:active,
+.delete-button:active,
+.download-button:active {
+  color: red;
+}
+
+.default-button {
+  width: 80px;
+  margin: 0 0 0 8px;
+}
+
+button {
+  padding-right: 0;
+  padding-left: 0;
+}
+
+body {
+  padding: 0 16px;
+}
+
+header {
+  text-align: right;
+}
+
+header a {
+  background-color: orangered;
+  color: white;
+  text-decoration: none;
+  padding: 6px;
+}
+
+header a:hover {
+  background-color: green;
+}
+
+h3 {
+  margin: 0;
+}
+
+hr {
+  margin: 16px 0;
+}
+
+p {
+  font-style: italic;
+}
